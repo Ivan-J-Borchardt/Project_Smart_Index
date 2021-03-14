@@ -64,6 +64,8 @@
 
 3. Configure o Smart Index de acordo com suas preferencias e clique "OK"
 
+![Smart Index](./img/Screen.png)
+
 
 ### Tecnologias
 
