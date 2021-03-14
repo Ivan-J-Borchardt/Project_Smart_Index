@@ -1,0 +1,31 @@
+#    User configuraiton file for Smart Index Script
+#    www.lunartec.com.br
+
+
+# written Wed Jul 19 2017 16:58:35 GMT-0300
+[edPathSource.text=C:\Users\Ivan J. Borchardt\Desktop\teste in]
+[edPathTarget.text=C:\Users\Ivan J. Borchardt\Desktop\teste out]
+[edLongestEdge.text=3000]
+[sldrQuality.value=12]
+[edQuality.text=12]
+[radOtimWeb.value=false]
+[radOtimPDF.value=true]
+[chkSeo.value=true]
+[edPathMeta.text=C:\Users\Ivan J. Borchardt\Desktop\Projeto Foto Angel\IMG_3394.xmp]
+[edAuthor.text=undefined]
+[edKeywords.text=undefined]
+[chkRename.value=true]
+[edNamePrefix.text=Parapente em Pomerode - ]
+[drpSufix.selection=0]
+[chkAction.value=false]
+[edGroupAction.text=Efeitos e Perfis de Cor]
+[edAction.text=Primavera Antecipada]
+[radPreExec.value=true]
+[radPostExec.value=false]
+[chkFileNum.value=true]
+[chkRating.value=true]
+[chkComment.value=false]
+[chkCheckbox.value=true]
+[chkPDF.value=true]
+[edCountImagesLine.text=2]
+[returnAction.value=2]
