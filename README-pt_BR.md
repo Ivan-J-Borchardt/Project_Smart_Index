@@ -13,7 +13,7 @@
  
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Photoshop&color=blue&style=<STYLE>&logo=adobe-photoshop)](https://www.adobe.com/devnet/photoshop/scripting.html)
-![GitHub](https://img.shields.io/github/license/ivan-j-borchardt/ExemplosCursoVanillaJS)
+[![GitHub](https://img.shields.io/github/license/ivan-j-borchardt/ExemplosCursoVanillaJS)](./LICENSE.md)
 
 
 ## Status do Projeto
